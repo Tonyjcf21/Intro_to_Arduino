@@ -2,8 +2,8 @@
 
 Laboratory of electronics.
 
-  -EEPROM
-  -Infrared Transmission
-  -Voltimeter
-  -Octocoupling
+ -EEPROM
+ -Infrared Transmission
+ -Voltimeter
+ -Octocoupling
   
