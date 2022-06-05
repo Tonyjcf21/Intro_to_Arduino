@@ -6,7 +6,7 @@ Laboratory of electronics.
  
  -Infrared Transmission
  
- -Voltimeter
+ -Voltmeter
  
  -Octocoupling
   
